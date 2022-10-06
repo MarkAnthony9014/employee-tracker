@@ -12,14 +12,16 @@
 
 ## Plans for Improvement
 
-- 
+- Add functionality to update existing employee data through the CLI. 
+- Add functionality to view employees by manager and department. 
+- Add functionality to be able to delete departments, roles, and employees. 
 
 <br/>
 <br/>
 
 ## Video Capture 
 
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 <br/>
 <br/>
