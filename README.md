@@ -21,10 +21,11 @@
 
 ## Video Capture 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[Screencastify Link To Video Walkthrough](https://watch.screencastify.com/v/iEmdJ4SKR13rlAEmRQ7s)
 
 <br/>
 <br/>
 
 ## GitHub Repository
 
+[Github Repository](https://github.com/MarkAnthony9014/employee-tracker)
